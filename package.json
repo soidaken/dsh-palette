@@ -1,6 +1,6 @@
 {
   "name": "dsh-palette",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Theme palette & UI tweaks for the DSH Web GUI: extra themes, scrollable thinking box, taller resizable composer, custom fonts (system + web), floating picker.",
   "keywords": [
     "deepseek",
